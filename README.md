@@ -1,3 +1,6 @@
+<img width="2709" height="2372" alt="image" src="https://github.com/user-attachments/assets/c168bd09-5b99-4bab-b9d6-33c96c51158f" />
+
+
 # Kubernetes CNI (Container Network Interface)
 
 ## What is CNI?
